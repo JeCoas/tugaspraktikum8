@@ -1,0 +1,15 @@
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\bin\Debug\net6.0\22.11.4856.exe
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\bin\Debug\net6.0\22.11.4856.deps.json
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\bin\Debug\net6.0\22.11.4856.runtimeconfig.json
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\bin\Debug\net6.0\22.11.4856.dll
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\bin\Debug\net6.0\22.11.4856.pdb
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\22.11.4856.csproj.AssemblyReference.cache
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\22.11.4856.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\22.11.4856.AssemblyInfoInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\22.11.4856.AssemblyInfo.cs
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\22.11.4856.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\22.11.4856.dll
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\refint\22.11.4856.dll
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\22.11.4856.pdb
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\22.11.4856.genruntimeconfig.cache
+D:\AMIKOM\Semester 2\Pemrograman\8\Inheritance\22.11.4856\obj\Debug\net6.0\ref\22.11.4856.dll
